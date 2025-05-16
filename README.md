@@ -1,2 +1,2 @@
 # RFS
-Detecting Refeeding Syndrome (RFS) by Machine Learning/AI
+Detecting Refeeding Syndrome (RFS) using Machine Learning/AI
