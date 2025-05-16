@@ -7,11 +7,11 @@ Detecting Refeeding Syndrome (RFS) using ML/AI
 
 ## Summary
 
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
+An early warning system intended to highlight the risk of RFS patients. This development is meant to minimize further risks of incorrect treatment/nutrition, It provides an easy-to-use support for those who are unsure. Helping patients and the community of medical spialists or professionals. 
 
 ## Background
 
-An early warning system is intended to highlight the risk of RFS and mitigate further risks of incorrect treatment/nutrition. Hospitals and specialized medical practices see these symptoms quite often.
+Hospitals and specialized medical practices see these symptoms quite often. 
 
 My personal motivation is to contribute with newly acquired knowledge in IT and software development in a value-added way. In the same time I want to support my partner in her work. She herself works in oncology and palliative care and has also observed refeeding syndrome in real life.
 
