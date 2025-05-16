@@ -9,6 +9,8 @@ Detecting Refeeding Syndrome (RFS) using ML/AI
 
 An early warning system intended to highlight the risk of RFS patients. This development is meant to minimize further risks of incorrect treatment/nutrition, It provides an easy-to-use support for those who are unsure. Helping patients and the community of medical spialists or professionals. 
 
+Building AI course project
+
 ## Background
 
 Hospitals and specialized medical practices see these symptoms quite often. 
